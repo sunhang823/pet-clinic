@@ -1,0 +1,5 @@
+com/hangsun/petclinic/model/Pet.class
+com/hangsun/petclinic/model/Vet.class
+com/hangsun/petclinic/model/PetType.class
+com/hangsun/petclinic/model/Person.class
+com/hangsun/petclinic/model/Owner.class
