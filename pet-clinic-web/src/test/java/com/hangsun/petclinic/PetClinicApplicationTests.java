@@ -1,4 +1,4 @@
-package petclinic;
+package com.hangsun.petclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
