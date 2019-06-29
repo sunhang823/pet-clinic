@@ -3,9 +3,11 @@ package com.hangsun.petclinic.services.map;
 import com.hangsun.petclinic.model.Pet;
 import com.hangsun.petclinic.services.CrudService;
 import com.hangsun.petclinic.services.PetService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
+@Service
 public class PetServiceMap extends AbstractMapService<Pet, Long> implements PetService {
 
     @Override
