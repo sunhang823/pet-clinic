@@ -1,5 +1,14 @@
-com/hangsun/petclinic/model/Pet.class
+com/hangsun/petclinic/services/VetService.class
 com/hangsun/petclinic/model/Vet.class
-com/hangsun/petclinic/model/PetType.class
+com/hangsun/petclinic/services/map/AbstractMapService.class
+com/hangsun/petclinic/services/map/VetServiceMap.class
+com/hangsun/petclinic/services/CrudService.class
+com/hangsun/petclinic/services/map/OwnerServiceMap.class
+com/hangsun/petclinic/services/PetService.class
+com/hangsun/petclinic/services/OwnerService.class
+com/hangsun/petclinic/model/BaseEntity.class
 com/hangsun/petclinic/model/Person.class
+com/hangsun/petclinic/services/map/PetServiceMap.class
+com/hangsun/petclinic/model/Pet.class
+com/hangsun/petclinic/model/PetType.class
 com/hangsun/petclinic/model/Owner.class
