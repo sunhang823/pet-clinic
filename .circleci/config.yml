@@ -32,8 +32,6 @@ jobs:
 
       - run: mvn install -DskipTests
 
-      - run: mvn -o test
-
       - run: mvn dependency:go-offline
 
 
